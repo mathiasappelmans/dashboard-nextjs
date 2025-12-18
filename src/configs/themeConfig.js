@@ -17,7 +17,7 @@
 */
 
 const themeConfig = {
-    templateName: 'Dotdev',
+    templateName: 'Dashboard',
     settingsCookieName: 'dotdev-mui-next', // name of the cookie containing the settings (mode, skin, semidark, layout, navbarContentWidth, contentWidth, footerContentWidth, primaryColor)
     mode: 'system', // 'system', 'light', 'dark'
     skin: 'default', // 'default', 'bordered'
